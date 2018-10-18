@@ -1,2 +1,2 @@
 # CS115
-Codes for Stevens Comp Sci Class CS115
+This contains homeworks, labs and other codes done in Stevens Inst of Tech class CS115
